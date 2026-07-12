@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Display Decrypted Image</title>
-</head>
-<body>
-
-    <img src="Decrypted.png" alt="Decrypted Image">
-
-</body>
-</html>
+<img width="1322" height="332" alt="decrypted" src="https://github.com/user-attachments/assets/3dde7782-1393-4513-b1ee-61d5f17a6ed1" />
