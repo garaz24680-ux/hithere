@@ -8,7 +8,7 @@
 # 3. CLoaking and a panic key to prevent being caught by teachers
 # 4. There are no ads or popups
 
-# DISCLAIMERS:
+# DISCLAIMERS: 
 
 # 1. We (the creators) are not responcible for any trouble you get using this site
 # 2. You will not share with known teacher pets or untrustworphy people
