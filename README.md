@@ -18,11 +18,6 @@
 # 6. You understand that we did not make any of the games on here and do not claim ownership in them
 # 7. You understand that this site is for entertainment purposes only
 
-# CREDITS:
-
-# ENCRYPTED - Idea, Making the structure (using AI), and coding with Garaz help
-# GARAZ - Helping Encrypted, coding, making the GitHub project, teaching Encrypted HTML
-
 # We hope you enjoy Decrypted!
 
 # 𝙳𝙴𝙲𝚁𝚈𝙿𝚃𝙴𝙳 / 𝙴𝚂𝚃 𝟸𝟶𝟸𝟼 / 𝙴𝙽𝙲𝚁𝚈𝙿𝚃𝙴𝙳 + 𝙶𝙰𝚁𝙰𝚉
