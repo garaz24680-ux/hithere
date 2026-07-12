@@ -10,19 +10,19 @@
 
 # Although using Decrypted is fun, you must agree to these disclaimers when using it:
 
-# We (the creators) are not responcible for any trouble you get using this site
-# You will not share with known teacher pets or untrustworphy people
-# You understand that we do not support copyright directly
-# Copying the HTML of this site is unallowed unless with Encrypted or Garaz permission
-# You are not allowed to use this site on any google sites, docs, or slides
-# You understand that we did not make any of the games on here and do not claim ownership in them
-# You understand that this site is for entertainment purposes only
-
-# We hope you enjoy Decrypted!
+# 1. We (the creators) are not responcible for any trouble you get using this site
+# 2. You will not share with known teacher pets or untrustworphy people
+# 3. You understand that we do not support copyright directly
+# 4. Copying the HTML of this site is unallowed unless with Encrypted or Garaz permission
+# 5. You are not allowed to use this site on any google sites, docs, or slides
+# 6. You understand that we did not make any of the games on here and do not claim ownership in them
+# 7. You understand that this site is for entertainment purposes only
 
 # CREDITS:
 
 # ENCRYPTED - Idea, Making the structure (using AI), and coding with Garaz help
 # GARAZ - Helping Encrypted, coding, making the GitHub project, teaching Encrypted HTML
+
+# We hope you enjoy Decrypted!
 
 # 𝙳𝙴𝙲𝚁𝚈𝙿𝚃𝙴𝙳 / 𝙴𝚂𝚃 𝟸𝟶𝟸𝟼 / 𝙴𝙽𝙲𝚁𝚈𝙿𝚃𝙴𝙳 + 𝙶𝙰𝚁𝙰𝚉
