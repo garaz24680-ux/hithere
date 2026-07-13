@@ -746,8 +746,9 @@ body {
 
     </div>
 
-    <div id="inline-game-container" style="display: none; width: 100%; max-width: 1000px; margin: 0 auto; flex-direction: column; gap: 15px;">
+    <div id="inline-game-container" style="display: none; width: 100%; max-width: 100000000px; height: 100%; margin: 0 auto; flex-direction: column; gap: 15px;">
         <button onclick="closeInlineGame()" class="hotkey-btn" style="align-self: flex-start; padding: 8px 16px;">⬅ Back to Games</button>
+        <button onclick="fullscreenBtn()" class="hotkey-btn" style="align-self: flex-start; padding: 8px 16px;">💻 Fullscreen</button>
         <div class="display-screen" style="height: 65vh; min-height: 500px;">
             <iframe id="inline-game-frame" class="terminal-frame" src="about:blank"></iframe>
         </div>
@@ -760,7 +761,7 @@ body {
         <section id="view-apps" class="page-view">
             <h1 class="text-3d page-title-top">Apps</h1>
                             
-            <div class="about-footer">
+            <div class="about-footer">💻
                     Decrypted / EST 2026 / Encrypted + Garaz
                 </div>
         </section>
@@ -1139,6 +1140,23 @@ function closeInlineGame() {
     
     // 3. Bring back the main grid selection of games
     document.getElementById('games-list-grid').style.display = 'grid';
+}
+  
+       function fullscreenBtn() {
+    // Target the specific container holding your game and buttons
+    const gameContainer = document.getElementById('inline-game-frame');
+
+    // Check if any element on the page is currently in fullscreen mode
+    if (!document.fullscreenElement) {
+        // Request fullscreen on your specific game layout wrapper
+        gameContainer.requestFullscreen()
+            .catch((err) => {
+                console.error(`Error enabling fullscreen: ${err.message}`);
+            });
+    } else {
+        // Exit fullscreen smoothly
+        document.exitFullscreen();
+    }
 }
 
     </script>
